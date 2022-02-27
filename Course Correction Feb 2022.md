@@ -30,7 +30,7 @@ Well, the mod I want to make is inherently incompatible with most other mods bec
 
 I _do_ envision third-party content within the context of the mod, and so APIs and JSON loaders remain valuable, so long as they support my workflow and improve the overall design.
 
-But, if I am being selfish, there's no reason me to add features I don't need, especially features that couple my code to other mods or archaic and suboptimal conventions (looking at you, Optifine).
+But, if I am being selfish, there's no reason for me to add features I don't need, especially features that couple my code to other mods or archaic and suboptimal conventions (looking at you, Optifine).
 
 And after considering my abysmally slow progress, I've concluded I either need to be more selfish, or I need to change my goals.
 
@@ -102,7 +102,7 @@ That said, I will probably retain some level of administrative control, at least
 
 With the vram.io domain and maven repo already created, some of the infrastructure is in place, and I'm happy to continue hosting these projects, for now, if that remains useful to their new owners.
 
-So, do you want to carry the torch for Tress Do No Float or Exotic Blocks? Do you want to take FREX or Canvas to the next level? If so, my DM's are open - let's talk.  I'd be gratified to see them continue without me.
+So, do you want to carry the torch for Tress Do Not Float or Exotic Blocks? Do you want to take FREX or Canvas to the next level? If so, my DM's are open - let's talk.  I'd be gratified to see them continue without me.
 
 # Conclusion
 
