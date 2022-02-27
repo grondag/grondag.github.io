@@ -1,8 +1,8 @@
 # Background
 
-I've been creating Minecraft mods for... around five years?  My goal has always been to create content that hasn't been done in Minecraft before - content that _I_ want to see.
+I've been creating Minecraft mods for... around five years?  My goal has always been to create content that hasn't been done in Minecraft before - content that _I_ want to see. For me, this is about creative expression - I _need_ to make things and to make them in a way that pleases me.
 
-To that end, there is a specific mod I want to make.  I don't know (or care) if it will be popular.  For me, this is about creative expression - I _need_ to make things and to make them in a way that pleases me.
+To that end, there is a specific mod I want to make.
 
 The mod I want to make will require capabilities that don't exist in Minecraft and aren't readily available in modding frameworks or libraries.  At the start, I didn't know how to create these capabilities and the challenge of creating them was another source of motivation for me.
 
@@ -16,7 +16,7 @@ I've never done much to promote my mods because, to me at least, they are mostly
 
 As a result (and probably also because my tastes skew outside the norm) my audience has never been particularly large, and that has been fine with me.  I've not wanted the distraction of a "popular" mod.
 
-It turns out there's an answer to the question, _"why not?"_
+But it turns out there's an answer to the question, _"why not?"_
 
 # The Problem
 
